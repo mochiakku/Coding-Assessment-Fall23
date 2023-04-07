@@ -22,7 +22,7 @@ A simple to-do list app with a few basic requirements
 - Fork this repository
 - Clone the forked repository in your IDE
 - Create client and server folders
-- In the client directory, run "npx create-react-app <app-name>" in the terminal
+- In the client directory, run "npx create-react-app (insert app name)" in the terminal
 - In the server directory, run "npm i express" in the terminal
 - Make sure to have MongoDB installed on your computer (instructions can be found here: https://www.mongodb.com/docs/manual/administration/install-community/) and connect the database to your server
 - Code your solution and push changes to GitHub
